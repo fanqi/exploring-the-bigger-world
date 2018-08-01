@@ -79,7 +79,7 @@ iOS：Shadowrocket（安装  PP 助手PC版，然后连接手机安装 PP 助手
 
 如果对以上步骤有疑问，可以参考更详细的 [购买攻略](http://banwagong.cn/gonglue.html)。
 
-##后记
+## 后记
 
 互联网时代，更需要坚持正确价值观！
 

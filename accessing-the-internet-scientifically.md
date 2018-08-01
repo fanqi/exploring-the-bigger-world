@@ -64,7 +64,7 @@ iOS：Shadowrocket（安装  PP 助手PC版，然后连接手机安装 PP 助手
 
 **搬瓦工**，因其官网网站标识是 BandwagonHost，有点类似 BanWaGong 的拼写，所以国内用户喜欢称作为搬瓦工 VPS。搬瓦工 VPS 性价比极高，支持支付宝付款，管理面板还支持一键搭建 Shadowsocks，使用非常简单。
 
-[搬瓦工VPS中文网](http://banwagong.cn/ ) 专门介绍和分享搬瓦工 VPS 便宜主机的信息，并且长期提供。
+[搬瓦工VPS中文网](http://banwagong.cn/ ) 专门介绍和分享搬瓦工 VPS 便宜主机的信息，并且长期提供优惠码。
 
 总结下来的搭建步骤：
 
